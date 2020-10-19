@@ -64,7 +64,7 @@ const Header = ({children}) => {
         <Positioner>
             <WhiteBackground>
                 <HeaderContents>
-                    <Logo>HEURM</Logo>
+                    <Logo>RADIUSLAB</Logo>
                     <Spacer/>
                     {children}
                 </HeaderContents>
